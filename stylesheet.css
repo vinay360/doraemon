@@ -1,0 +1,59 @@
+/* body{
+    background-color: #79DAE8;
+} */
+.first{
+    padding: 1% 15%;
+    background-color: #79DAE8;
+    padding-bottom: 8.2%;
+}
+.hi{
+    margin-left: 5%;
+    margin-top: 10%;
+    font-family: 'Bevan', cursive;
+    font-size: 450%;
+}
+.world{
+    margin-left: 5%;
+    margin-top: 5%;
+    font-family: 'Rubik', sans-serif;
+    font-size: 200%;
+}
+
+/* navbar */
+.pad{
+    padding-top: 5%;
+}
+
+.navbar-item{
+    font-size: 1.2rem;
+    padding: 0 15px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+.but{
+    margin-left: 5%;
+    margin-top: 8%;
+}
+.dor{
+    width: 80%;
+    height: auto;
+}
+
+/*second*/
+.second{
+    padding-top: 5%;
+    height: 800px;
+}
+
+.exp{
+    padding-top: 2%;
+    font-family: 'Bevan', cursive;
+    text-align: center;
+}
+.exploretext{
+    font-size: 3em;
+}
+.cake{
+    margin-top: 2.5%;
+    height: 50px;
+}
